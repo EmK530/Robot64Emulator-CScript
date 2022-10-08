@@ -1,2 +1,4 @@
 # Robot64Emulator-CScript
-Public viewing and contributions of the CharacterScript port from Robot 64 (LuaU / Roblox) to Unity (C#)
+Public repository containing the public progress of porting the Robot 64 CharacterScript from Roblox (LuaU) to Unity (C#)
+
+Contributions appreciated, do not include duplicates in your porting of a function / piece of code.
