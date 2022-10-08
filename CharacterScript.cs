@@ -344,6 +344,7 @@ public class CharacterScript : MonoBehaviour
         //missing spinCF
         //missing enemies
         loadmap(map);
+        //to be continued
     }
 
     void Update()
